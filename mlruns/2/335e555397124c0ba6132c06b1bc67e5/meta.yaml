@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/per/Codes/cloud_deployment/mlops/mlops-w-creditcard-data/mlruns/2/335e555397124c0ba6132c06b1bc67e5/artifacts
+end_time: 1689361088722
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 335e555397124c0ba6132c06b1bc67e5
+run_uuid: 335e555397124c0ba6132c06b1bc67e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689361083209
+status: 3
+tags: []
+user_id: joshua abok

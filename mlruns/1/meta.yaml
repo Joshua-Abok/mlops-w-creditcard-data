@@ -1,0 +1,4 @@
+artifact_location: file:///D:/per/Codes/cloud_deployment/mlops/mlops-w-creditcard-data/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: scikit_learn_experiment
