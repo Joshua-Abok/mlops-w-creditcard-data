@@ -1,0 +1,4 @@
+artifact_location: file:///D:/per/Codes/cloud_deployment/mlops/mlops-w-creditcard-data/mlruns/4
+experiment_id: '4'
+lifecycle_stage: active
+name: PySpark_CreditCard
