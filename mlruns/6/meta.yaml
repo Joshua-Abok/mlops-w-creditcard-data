@@ -1,0 +1,4 @@
+artifact_location: file:///D:/per/Codes/cloud_deployment/mlops/mlops-w-creditcard-data/mlruns/6
+experiment_id: '6'
+lifecycle_stage: active
+name: PyTorch_MNIST
